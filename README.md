@@ -7,7 +7,7 @@ This repo contains the core, albeit disjointed, for [Conductor](https://github.c
 as well as a number of protocols, rigs, devices which are currently under development. **We recommend, strongly,
 that this repo not be used as-is.** Instead, the repo serves as a catch-all cache for any and all developmental 
 changes made to [Conductor](https://github.com/sampath-lab-ucla/Conductor) core and new/updated/modified 
-versions of any +protocols and descriptions used in [Symphony V2.x](http://http://symphony-das.github.io).
+versions of any +protocols and descriptions used in [Symphony V2.x](http://symphony-das.github.io).
 
 *All physiology rigs in the Sampath Lab currently use:*
 - Windows 10 Pro (x64)
